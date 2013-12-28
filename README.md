@@ -17,4 +17,3 @@ categories into "Women", and "Men + Other".
 You can also see [the IPython notebook](http://nbviewer.ipython.org/github/jvns/guys-guys-guys/blob/master/The%20guys.ipynb) that I used to generate the graph.
 
 If you come up with other views on this data, I'd be interested to hear about it.
-The main thing I find interesting here is how women and men perceive
