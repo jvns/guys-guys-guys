@@ -1,10 +1,10 @@
 Hey guys! The guys. A Java guy?
 ===============================
 
-These are the results from a short survey I ran on the use of "guys"
+These are the results from a short survey I ran on the use of "guys".
 
 You can see
-[the survey questions](https://docs.google.com/forms/d/1qg85hU7hfjqDgydlfa16UveuENFjgp23WlfkRNsnm48/viewform), ans possibly still reply.
+[the survey questions](https://docs.google.com/forms/d/1qg85hU7hfjqDgydlfa16UveuENFjgp23WlfkRNsnm48/viewform), and possibly still reply.
 
 About 2300 people answered the survey in all. The results (minus email addresses) are in a CSV in this repository. There's a comma in one of the column names, which is a pain.
 
