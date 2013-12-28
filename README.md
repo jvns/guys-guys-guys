@@ -14,6 +14,6 @@ categories into "Women", and "Men + Other".
 
 <img src="https://raw.github.com/jvns/guys-guys-guys/master/images/guys-guys-guys-chart.png" width="750px">
 
-You can also see [the IPython notebook](http://nbviewer.ipython.org/github/jvns/guys-guys-guys/blob/master/The%20guys.ipynb) that I used to generate the graph.
+You can also see [the IPython notebook](http://nbviewer.ipython.org/github/jvns/guys-guys-guys/blob/master/The%20guys.ipynb) that I used to generate the graph, and [a blog post](http://jvns.ca/blog/2013/12/27/guys-guys-guys/) where I write a bit about the motivations and my thoughts.
 
 If you come up with other views on this data, I'd be interested to hear about it.
